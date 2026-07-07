@@ -1,4 +1,5 @@
 # 🎬 Week 2 Full-Stack Recommendation Engine
+[screen-capture (2).webm](https://github.com/user-attachments/assets/518e46d2-cc46-4d93-99f9-0fb9019e4e42)
 
 ## Project Overview
 
